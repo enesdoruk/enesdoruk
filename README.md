@@ -8,6 +8,10 @@
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=enesdoruk&theme=tokyonight" alt="enesdoruk" />
 <br/>
 
+![](https://komarev.com/ghpvc/?username=enesdoruk&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
+<img src="https://img.shields.io/github/forks/muskanrani/muskanrani?style=social"></img>
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
