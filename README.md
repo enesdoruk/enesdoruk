@@ -3,10 +3,10 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesdoruk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesdoruk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<br/>
 
 ###
 
