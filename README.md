@@ -23,7 +23,7 @@
 <div align="center" width="50">
   <br><br> <strong>Vibing to : 🎧</strong> </p>
 
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+  [![Spotify](https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg)](https://open.spotify.com/user/endoruk123) <br>
 </div>
 
 
@@ -62,7 +62,7 @@
 
 ###
 
-
+<br>
 
 
 <h2> Github Stats </h2> 
@@ -86,6 +86,27 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/enesdoruk/Autonom-Vehicles-Projects" title="Autonom Vehicles Project for UDACITY Course"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=enesdoruk&repo=Autonom-Vehicles-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+	<a align="right" href="https://github.com/enesdoruk/Multi-Modal-Multi-Scale-Object-Detection" title="Multi Modal Multi scale Object Detection"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=enesdoruk&repo=Multi-Modal-Multi-Scale-Object-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/enesdoruk/DomAtt-UNet" title="DomAtt-UNet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=enesdoruk&repo=DomAtt-UNet&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/enesdoruk/Chameleon-yolov8" title="Chameleon-yolov8"><img align="right" height="133" src="https://github-readme-stats.vercel.app/api/pin/?username=enesdoruk&repo=Chameleon-yolov8&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/enesdoruk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 
 ###
 
