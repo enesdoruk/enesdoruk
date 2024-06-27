@@ -9,8 +9,8 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=enesdoruk&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
-<img src="https://img.shields.io/github/forks/muskanrani/muskanrani?style=social"></img>
+![](https://visitor-badge.glitch.me/badge?page_id=enesdoruk.enesdoruk)
+<img src="https://img.shields.io/github/forks/enesdoruk/enesdoruk?style=social"></img>
 
 ###
 
