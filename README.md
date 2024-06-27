@@ -4,8 +4,8 @@
 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/enesdoruk/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<a href="https://github.com/enesdoruk/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesdoruk&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=enesdoruk&theme=tokyonight" alt="enesdoruk" />
 <br/>
 
 ###
